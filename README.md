@@ -4,4 +4,4 @@ This is a git demo repository
 
 -Add feature
 
--Add feature 2 & Fix feature
+-Add feature 2 & Fix feature & Add feature 3
